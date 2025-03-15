@@ -1,10 +1,9 @@
 {
-  "name": "maus",
+  "name": "maus-theme",
   "displayName": "Maus Theme",
   "version": "0.0.1",
-  "publisher": "Moon Maus",
+  "publisher": "moonmaus",
   "description": "Vibrant dark theme from Moon Maus.",
-	"homepage": "https://github.com/moonmaus/maus-theme/blob/main/README.md",
   "license": "MIT",
   "engines": {
     "vscode": "^1.98.0"
@@ -12,7 +11,7 @@
   "categories": [
     "Themes"
   ],
-  "icon": "images/maus-dark-icon.png",
+  "icon": "assets/maus-dark-icon.png",
   "keywords": [
     "theme",
     "dark",

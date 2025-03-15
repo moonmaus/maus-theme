@@ -1,5 +1,6 @@
 .vscode/**
 .vscode-test/**
-.scratch/**
+.scratch
 .gitignore
 vsc-extension-quickstart.md
+assets/maus-dark-screen.png

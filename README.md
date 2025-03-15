@@ -1,12 +1,12 @@
 # Maus Theme
 
 <p align="left">
-    <img src="https://raw.githubusercontent.com/moonmaus/maus-theme/main/maus-dark-icon.png" width="160" alt="Maus Theme icon">
+    <img src="https://raw.githubusercontent.com/moonmaus/maus-theme/main/assets/maus-dark-icon.png" width="160" alt="Maus Theme icon">
 </p>
 
 > A vibrant dark theme for [Visual Studio Code](http://code.visualstudio.com) designed to enhance readability when screen brightness is reduced.
 <p align="left">
-    <img src="https://raw.githubusercontent.com/moonmaus/maus-theme/main/screen.png" width="800" alt="Maus Theme screenshot">
+    <img src="https://raw.githubusercontent.com/moonmaus/maus-theme/main/assets/maus-dark-screen.png" width="800" alt="Maus Theme screenshot">
 </p>
 
 ## Features
