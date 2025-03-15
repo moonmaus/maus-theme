@@ -10,8 +10,7 @@
 # Project files
 !themes/*
 !package.json
-!maus-dark-icon.png
-!screen.png
+!assets/*
 
 !LICENSE
 !README.md
