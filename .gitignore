@@ -1,0 +1,42 @@
+# Ignore everything
+*
+
+# But not these files...
+!/.gitignore
+!/.gitattributes
+!/.vscodeignore
+!/.vscode/**
+
+# Project files
+!themes/*
+!package.json
+!maus-dark-icon.png
+!screen.png
+
+!LICENSE
+!README.md
+!SUPPORT.md
+!SECURITY.md
+!CHANGELOG.md
+!GOVERNANCE.md
+!CONTRIBUTING.md
+
+!*.example
+
+# Scripts
+!verify.sh
+!install.sh
+!postinstall.sh
+
+!docs/**/*.md
+!.github/**/*.yml
+
+
+# Allow directories (to enable more granular allow rules)
+!*/
+
+# Ignore rules
+.scratch/*
+.DS_Store
+dist/*
+build/*

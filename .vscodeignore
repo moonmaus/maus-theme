@@ -1,0 +1,5 @@
+.vscode/**
+.vscode-test/**
+.scratch/**
+.gitignore
+vsc-extension-quickstart.md

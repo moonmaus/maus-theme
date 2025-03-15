@@ -1,0 +1,43 @@
+{
+  "name": "maus",
+  "displayName": "Maus Theme",
+  "version": "0.0.1",
+  "publisher": "Moon Maus",
+  "description": "Vibrant dark theme from Moon Maus.",
+	"homepage": "https://github.com/moonmaus/maus-theme/blob/main/README.md",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.98.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "images/maus-dark-icon.png",
+  "keywords": [
+    "theme",
+    "dark",
+    "color",
+    "vibrant",
+    "dark mode",
+    "dark theme",
+    "pastel",
+    "colorful",
+    "oled",
+    "maus",
+    "moon maus",
+    "bruce abbott"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/moonmaus/maus-theme.git"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Maus Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/maus-dark-color-theme.json"
+      }
+    ]
+  }
+}
