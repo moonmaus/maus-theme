@@ -9,6 +9,22 @@
     <img src="https://raw.githubusercontent.com/moonmaus/maus-theme/main/assets/maus-dark-screen.png" width="800" alt="Maus Theme screenshot">
 </p>
 
+
+## Syntax Highlighting
+
+Basic syntax highlighting is available for most languages, but version `v0.0.2` introduces initial refinements for:
+
+- Go
+- TypeScript / JavaScript
+- JSON
+- Markdown
+
+Planned enhancements in version `v0.0.4` include:
+
+- Shell
+- CSS
+- Python
+
 ## Features
 
 - **Optimized Dark Mode:** Uses a deep, low-light background paired with a balanced color palette.
@@ -27,7 +43,7 @@ In a VS Code instance:
 
 Edit `settings.json`:
 
-1. Open the Command Palette again
+1. Open the Editor Command Palette (`ctrl + shift + P` or `cmd + shift +  P`)
 2. Type `Open User Settings (JSON)` and press `enter / return`
 3. Add the following:
 
