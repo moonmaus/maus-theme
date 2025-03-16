@@ -247,7 +247,7 @@
       "scope": "storage.type",
       "settings": {
         "fontStyle": "",
-        "foreground": "#9e055c"
+        "foreground": "#58616e"
       }
     },
     {
@@ -268,7 +268,10 @@
     },
     {
       "name": "Function name",
-      "scope": "entity.name.function",
+      "scope": [
+        "storage.type.function",
+        "entity.name.function"
+      ],
       "settings": {
         "fontStyle": "",
         "foreground": "#1EB897"
@@ -362,6 +365,30 @@
       "settings": {
         "fontStyle": "",
         "foreground": "#768CAD"
+      }
+    },
+    {
+      "scope": [
+        "support.class.component"
+      ],
+      "settings": {
+        "foreground": "#3E9CEA"
+      }
+    },
+    {
+      "scope": [
+        "support.type.primitive"
+      ],
+      "settings": {
+        "foreground": "#768CAD"
+      }
+    },
+    {
+      "scope": [
+        "variable.object.property"
+      ],
+      "settings": {
+        "foreground": "#B3BDCC"
       }
     },
     {

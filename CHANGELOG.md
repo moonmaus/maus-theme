@@ -19,3 +19,10 @@ Add Maus Theme extension files:
 - Package JSON and configuration
 - Icon and screenshot
 - README and LICENSE
+
+## [0.0.2] - 2025-03-15
+
+### fix: resolved incorrect TSX color values
+
+- Improved install instructions
+- Updated icon asset

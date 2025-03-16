@@ -19,21 +19,22 @@
 
 In a VS Code instance:
 
-1. Open the Command Palette (`ctrl + shift + P` or `cmd + shift + P`)
-2. Type `ext install Maus Theme` and press `enter / return`
+1. Open the Command Palette (`ctrl + P` or `cmd + P`)
+2. Type `ext install maus` and press `enter / return`
+3. Click 'Install' button under **`Maus Theme`**
 
-## Set Default Dark Theme
+## Set Dark Theme
 
-You can set theme defaults **`Maus Theme`** in  `settings.json`:
+Edit `settings.json`:
 
 1. Open the Command Palette again
 2. Type `Open User Settings (JSON)` and press `enter / return`
-3. Add the following line:
+3. Add the following:
 
 ```json
+"workbench.colorTheme": "Maus Dark",
 "workbench.preferredDarkColorTheme": "Maus Dark",
 ```
-<!-- "workbench.colorTheme": "Maus Dark", -->
 
 ## Contributing
 
