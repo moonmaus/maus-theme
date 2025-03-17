@@ -36,3 +36,15 @@ Add Maus Theme extension files:
 - Updated icon asset
 - Updated screen asset
 - Included 'Optional Settings' in README
+
+## [0.0.4] - 2025-03-17
+
+### refactor: enhanced values for red, yellow, gold
+
+- Red: ED8C5E (warning)
+- Red.Bright: BF4040 (invalid, error)
+- Red.Dark: 861D1D (deleted)
+- Yellow: C6BD80 (variable)
+- Gold: BB901B (modified)
+- Updated screen asset
+- Revised version reference in README

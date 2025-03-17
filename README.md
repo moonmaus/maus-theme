@@ -15,14 +15,14 @@
 
 ## Syntax Highlighting
 
-Basic syntax highlighting is available for most languages, but version `v0.0.2` introduces initial refinements for:
+Basic syntax highlighting is available for most languages, but `v0.0.4` introduces refinements for:
 
 - Go
 - TypeScript / JavaScript
 - JSON
 - Markdown
 
-Planned enhancements in version `v0.0.4` include:
+Planned enhancements in `v0.0.5` include:
 
 - Shell
 - CSS
