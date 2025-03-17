@@ -1,9 +1,9 @@
 {
   "name": "maus-theme",
   "displayName": "Maus Theme",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "moonmaus",
-  "description": "Vibrant dark theme from Moon Maus.",
+  "description": "Vibrant dark theme for reduced screen brightness.",
   "license": "MIT",
   "engines": {
     "vscode": "^1.98.0"
@@ -22,6 +22,8 @@
     "pastel",
     "colorful",
     "oled",
+    "low brightness",
+    "low light",
     "maus",
     "moon maus",
     "bruce abbott"

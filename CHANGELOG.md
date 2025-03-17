@@ -26,3 +26,13 @@ Add Maus Theme extension files:
 
 - Improved install instructions
 - Updated icon asset
+
+## [0.0.3] - 2025-03-16
+
+### feat: add italic to function, keyword, storage
+
+- Improved TypeScript / JavaScript highlighting
+- Corrected UI styles
+- Updated icon asset
+- Updated screen asset
+- Included 'Optional Settings' in README
