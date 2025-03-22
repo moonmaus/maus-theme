@@ -1,38 +1,46 @@
 # Maus Theme
-![GitHub package.json version](https://img.shields.io/github/package-json/v/moonmaus/maus-theme)
-![GitHub](https://img.shields.io/github/license/moonmaus/maus-theme)
+
+[![Version](https://vsmarketplacebadges.dev/version/moonmaus.maus-theme.svg?&colorB=orange)](https://marketplace.visualstudio.com/items?itemName=moonmaus.maus-theme)
+![GitHub](https://img.shields.io/github/license/moonmaus/maus-theme?&colorB=blue)
+
+
+<!-- ![GitHub package.json version](https://img.shields.io/github/package-json/v/moonmaus/maus-theme) -->
 <!-- ![GitHub release (latest by date)](https://img.shields.io/github/v/release/moonmaus/maus-theme?logo=github) -->
-<!-- ![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/moonmaus/maus-theme?label=VS%20Marketplace&logo=visual-studio-code) -->
+<!-- ![Visual Studio Marketplace Version](https://marketplace.visualstudio.com/items?itemName=moonmaus.maus-theme) -->
 
 <p align="left">
     <img src="https://raw.githubusercontent.com/moonmaus/maus-theme/main/assets/maus-dark-icon.png" width="160" alt="Maus Theme icon">
 </p>
 
-> A vibrant dark theme for [Visual Studio Code](http://code.visualstudio.com) designed to enhance readability when screen brightness is reduced.
+> A vibrant dark theme for [Visual Studio Code](http://code.visualstudio.com) that adapts to reduced screen brightness, providing enhanced readability.
 <p align="left">
     <img src="https://raw.githubusercontent.com/moonmaus/maus-theme/main/assets/maus-dark-screen.png" width="800" alt="Maus Theme screenshot">
 </p>
 
 ## Syntax Highlighting
 
-Basic syntax highlighting is available for most languages, but `v0.0.4` introduces refinements for:
+Basic syntax highlighting is available for most languages. Levels of refinement to-date are shown below:
 
-- Go
-- TypeScript / JavaScript
-- JSON
-- Markdown
-
-Planned enhancements in `v0.0.5` include:
-
-- Shell
-- CSS
-- Python
+| Language     | Refinement | Updates            |
+|--------------|------------|--------------------|
+| `Go`         | High       |                    |
+| `TypeScript` | High       |                    |
+| `JavaScript` | High       |                    |
+| `JSON`       | Moderate   | Planned (`v0.0.6`) |
+| `Lua`        | Moderate   |                    |
+| `Markdown`   | Low        |                    |
+| `Unix Shell` | Low        |                    |
+| `CSS`        | Low        | Planned (`v0.0.6`) |
+| `Python`     | None       | Planned (`v0.0.6`) |
 
 ## Features
 
-- **Optimized Dark Mode:** Uses a deep, low-light background paired with a balanced color palette.
-- **Refined Syntax Highlighting:** Distinct hues for functions, operators, constants, and strings create clear visual groupings.
-- **Reduced Visual Fatigue:** Vivid accents have been subtly desaturated to ease long coding sessions.
+| Feature                    | Description                                                       |
+|----------------------------|-------------------------------------------------------------------|
+| **Optimized Dark Mode**    | Deep, low-light background paired with a balanced vibrant palette |
+| **Refined Highlighting**   | Distinct hues for functions, operators, constants, and strings    |
+| **Reduced Visual Fatigue** | Subtly desaturated accents help ease long coding sessions         |
+| **Refined IDE Scheme**     | Seamless interface contrast to elevate the editor                 |
 
 ## Install
 

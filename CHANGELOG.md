@@ -48,3 +48,13 @@ Add Maus Theme extension files:
 - Gold: BB901B (modified)
 - Updated screen asset
 - Revised version reference in README
+
+
+## [0.0.5] - 2025-03-22
+
+### feat: word, editorOverviewRuler, editorGutter support
+
+Defined visual hiearchy for word, selection, and find match, highlights. Aligned `editorGutter` and `editorOverviewRuler` highlights to v0.0.4 state based colors (e.g., warning, invalid, error, deletion) 
+
+- Updated screen asset
+- Revised version reference in README
