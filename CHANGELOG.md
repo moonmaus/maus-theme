@@ -49,7 +49,6 @@ Add Maus Theme extension files:
 - Updated screen asset
 - Revised version reference in README
 
-
 ## [0.0.5] - 2025-03-22
 
 ### feat: word, editorOverviewRuler, editorGutter support
@@ -58,3 +57,11 @@ Defined visual hiearchy for word, selection, and find match, highlights. Aligned
 
 - Updated screen asset
 - Revised version reference in README
+
+## [0.0.6] - 2025-04-24
+
+### chore: scoped comment, editor, editorOverviewRuler
+
+Added block support for comment highlights, and revised the magenta value for find match.
+
+- Updated screen asset

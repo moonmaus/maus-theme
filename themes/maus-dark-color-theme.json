@@ -23,14 +23,14 @@
     "editor.foreground": "#8f98a3",
     "editorBracketMatch.background": "#0c0d0f",
     "editorBracketMatch.border": "#ff00eadb",
-    "editor.selectionBackground": "#00ffc356",
+    "editor.selectionBackground": "#00ffc369",
     "editor.lineHighlightBackground": "#97d5ff0d",
     "editor.rangeHighlightBackground": "#97d5ff0d",
     "editor.findRangeHighlightBorder": "#ff00ff2c",
     "editor.selectionHighlightBackground": "#9000ff58",
     "editor.inactiveSelectionBackground": "#5d00ff34",
     "editor.findMatchBackground": "#4c00ff49",
-    "editor.findMatchForeground": "#ff00eadb",
+    "editor.findMatchForeground": "#c300ffe2",
     "editor.findMatchBorder": "#ff00ff00",
     "editor.findMatchHighlightForeground": "#ffffffd4",
     "editor.findMatchHighlightBackground": "#4c00ff49",
@@ -64,7 +64,9 @@
     "editorOverviewRuler.modifiedForeground": "#7A5A00",
     "editorOverviewRuler.warningForeground": "#ED8C5E",
     "editorOverviewRuler.deletedForeground": "#751A1A",
-    "editorOverviewRuler.findMatchForeground": "#ff00eadb",
+    "editorOverviewRuler.findMatchForeground": "#c300ff9a",
+    "editorOverviewRuler.rangeHighlightForeground": "#5d00ff34",
+    "editorOverviewRuler.wordHighlightStrongForeground": "#5d00ff34",
     "editorRuler.foreground": "#2b2f35",
     "editorSuggestWidget.background": "#141619",
     "editorSuggestWidget.border": "#141619",
@@ -620,14 +622,15 @@
     {
       "name": "Comments",
       "scope": [
-        "comment.line"
+        "comment.line",
+        "comment.block"
       ],
       "settings": {
-        "foreground": "#313949"
-      }
+        "foreground": "#3C4453"
+      },
     },
     {
-      "name": "Comments",
+      "name": "Comment Indicator",
       "scope": [
         "punctuation.definition.comment"
       ],
