@@ -26,12 +26,12 @@ Basic syntax highlighting is available for most languages. Levels of refinement 
 | `Go`         | High       |                    |
 | `TypeScript` | High       |                    |
 | `JavaScript` | High       |                    |
-| `JSON`       | Moderate   | Planned (`v0.0.8`) |
+| `JSON`       | Moderate   | Planned (`v0.0.9`) |
 | `Lua`        | Moderate   |                    |
 | `CSS`        | Moderate   |                    |
 | `Markdown`   | Moderate   |                    |
 | `Unix Shell` | Low        |                    |
-| `Python`     | Low        | Planned (`v0.0.8`) |
+| `Python`     | Low        | Planned (`v0.0.9`) |
 
 ## Features
 

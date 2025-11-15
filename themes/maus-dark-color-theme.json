@@ -288,19 +288,28 @@
         "foreground": "#72777F"
       }
     },
-    {
-      "name": "Function name",
-      "scope": [
-        "storage.type.function",
-        "entity.name.function",
-        "entity.name.function.go",
-        "entity.name.function.tsx",
-        "meta.definition.function.tsx"
-      ],
-      "settings": {
-        "foreground": "#1EB897"
-      }
-    },
+      {
+        "name": "Storage Type Function",
+        "scope": [
+          "storage.type.function",
+          "storage.type.function.ts",
+          "storage.type.function.tsx",
+        ],
+        "settings": {
+          "foreground": "#CC9808"
+        }
+      },
+      {
+        "name": "Entity Name Function",
+        "scope": [
+          "entity.name.function",
+          "entity.name.function.go",
+          "entity.name.function.tsx",
+        ],
+        "settings": {
+          "foreground": "#1EB897"
+        }
+      },
     {
       "name": "Tag name",
       "scope": "entity.name.tag",
@@ -649,19 +658,8 @@
     },
     {
       "scope": [
-        "meta.brace.round",
         "punctuation.separator.comma",
-        "punctuation.other.comma",
-        "punctuation.parenthesis.open",
-        "punctuation.parenthesis.close",
-        "punctuation.brackets.open",
-        "punctuation.brackets.close",
-        "punctuation.curlybrace.open",
-        "punctuation.curlybrace.close",
-        "punctuation.definition.begin.bracket.round",
-        "punctuation.definition.end.bracket.round",
-        "punctuation.definition.begin.bracket.curly",
-        "punctuation.definition.end.bracket.curly"
+        "punctuation.other.comma"
       ],
       "settings": {
         "foreground": "#F770FF"

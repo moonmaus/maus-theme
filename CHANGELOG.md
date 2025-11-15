@@ -10,6 +10,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Improvements
 - Syntax highlight for more languages
 
+## [0.0.8] - 2025-11-14
+
+### fix: storage function contrast; remove punctuation overrides
+
+Included TypeScript storage function highlight intended for 0.0.7
+
 ## [0.0.7] - 2025-11-14
 
 ### refactor: enhance punctuation hierarchy and refine palette
