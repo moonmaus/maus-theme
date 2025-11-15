@@ -1,7 +1,7 @@
 {
   "name": "maus-theme",
   "displayName": "Maus Theme",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "publisher": "moonmaus",
   "description": "Vibrant dark theme that adapts to reduced screen brightness.",
   "license": "MIT",
